@@ -5,14 +5,14 @@ h1, p{
 
 .ordenada {
     list-style: none;
-    text-align: center;
+    
     
 
 }
 
 .nao-ordenada{
     list-style: none;
-    text-align: center;
+    
 }
 
 li:hover{
